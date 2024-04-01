@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kiwi9992
+- 👀 I’m interested in readings.
+- 🌱 I’m currently learning QA.
